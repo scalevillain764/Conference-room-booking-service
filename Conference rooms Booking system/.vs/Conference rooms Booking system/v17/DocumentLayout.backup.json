@@ -67,8 +67,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Requests\\BookingRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:21:53.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:21:53.758Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:21:52.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:21:52.324Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Models\\Booking.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:21:50.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:21:50.425Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:21:46.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:21:46.017Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Controllers\\BookingController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:21:35.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:21:35.477Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Controllers\\UserController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAuwFQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T18:17:06.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T18:17:06.013Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Conference rooms Booking system\\Controllers\\RoomController.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAmwFIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:56:04.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T08:56:04.986Z"
             }
           ]
         }
