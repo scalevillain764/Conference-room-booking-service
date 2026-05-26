@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\EF\\Conference rooms Booking system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\requests\\roomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\requests\\roomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\requests\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\requests\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|d:\\c#\\ef\\conference rooms booking system\\conference rooms booking system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686B8807-F7FD-4BD5-9162-6D32D5B364B9}|Conference rooms Booking system\\Conference rooms Booking system.csproj|solutionrelative:conference rooms booking system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomRequest.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Requests\\RoomRequest.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Requests\\RoomRequest.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Requests\\RoomRequest.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Requests\\RoomRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingRequest.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Requests\\BookingRequest.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Requests\\BookingRequest.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Requests\\BookingRequest.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Requests\\BookingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:53.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Models\\Room.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Models\\Room.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Models\\Booking.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Models\\Booking.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Models\\Booking.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:21:35.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:17:06.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Conference rooms Booking system\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\c#\\EF\\Conference rooms Booking system\\Conference rooms Booking system\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Conference rooms Booking system\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:56:04.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
